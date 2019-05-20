@@ -2,7 +2,7 @@
 SpotifyR is library for R that makes possible the crawl of interesting metadata from artist's songs from Spotify.
 
 ## How about a video with the explaination of the code? 
-[![the video](https://i9.ytimg.com/vi/IQQFeKs5eWo/maxresdefault.jpg?sqp=CPDMi-cF&rs=AOn4CLA8KSgzbUSJOWnR0jQ91WDgoBFEZA&time=1558374031289)](https://youtu.be/vt5fpE0bzSY)
+[![the video](https://i9.ytimg.com/vi/IQQFeKs5eWo/maxresdefault.jpg?sqp=CPDMi-cF&rs=AOn4CLA8KSgzbUSJOWnR0jQ91WDgoBFEZA&time=1558374031289)](https://youtu.be/IQQFeKs5eWo)
 
 ## In a nutshell
 
