@@ -1,7 +1,7 @@
 # Learn-SpotifyR
 SpotifyR is library for R that makes possible the crawl of interesting metadata from artist's songs from Spotify.
 
-## How about a video with the explaination of the code? 
+## Click here to watch the execution and explanation of the code
 [![Learn SpotifyR - Greek Audio and Subs - English Subs](https://i.imgur.com/FjFexq9.jpg)](https://youtu.be/IQQFeKs5eWo)
 
 ## In a nutshell
